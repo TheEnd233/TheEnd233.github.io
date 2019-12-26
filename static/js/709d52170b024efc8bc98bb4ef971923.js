@@ -1,0 +1,1 @@
+document.getElementById('hitokoto').innerText = '我次定要幸福，哪怕幸福是场构什，我也会尽力演好每一场戏';
